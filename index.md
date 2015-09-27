@@ -1,7 +1,8 @@
 ---
+title: test
 ---
 
-# Hello World
+# {{ page.title }}
 
 {% highlight console %}
 $ git clone ...
